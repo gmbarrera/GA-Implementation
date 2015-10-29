@@ -3,8 +3,8 @@ package gmbarrera.ga.tsp;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import gmbarrera.ga.GeneticAlgorithm;
-import gmbarrera.ga.Population;
+import gmbarrera.ga.generic.GeneticAlgorithm;
+import gmbarrera.ga.generic.Population;
 
 public class TSPGeneticAlgorithm extends GeneticAlgorithm {
 

@@ -1,4 +1,4 @@
-package gmbarrera.ga;
+package gmbarrera.ga.generic;
 
 import java.util.ArrayList;
 

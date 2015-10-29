@@ -1,6 +1,6 @@
 package gmbarrera.ga.tsp;
 
-import gmbarrera.ga.Gen;
+import gmbarrera.ga.generic.Gen;
 
 public class GenPath extends Gen {
 	private double distance;

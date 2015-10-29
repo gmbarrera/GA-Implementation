@@ -1,7 +1,7 @@
 package gmbarrera.ga.tsp;
 
-import gmbarrera.ga.Chromosome;
-import gmbarrera.ga.Gen;
+import gmbarrera.ga.generic.Chromosome;
+import gmbarrera.ga.generic.Gen;
 
 public class ChromosomeRoute extends Chromosome {
 	
