@@ -2,6 +2,7 @@ package gmbarrera.ga.tsp;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 
 import gmbarrera.ga.generic.GeneticAlgorithm;
 import gmbarrera.ga.generic.Population;
@@ -46,6 +47,19 @@ public class TSPGeneticAlgorithm extends GeneticAlgorithm {
 		}
 		
 		return pop;
+	}
+
+	@Override
+	public boolean convergedPopulation(Population newPopulation, List<Population> previousPopulation) {
+		// TODO Auto-generated method stub
+		
+		for(Population population : previousPopulation) {
+			
+			
+			
+		}
+		
+		return false;
 	}
 
 }
